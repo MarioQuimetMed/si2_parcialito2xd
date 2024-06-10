@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175549207320",
+    "project_id": "si2-parcialitoxd",
+    "storage_bucket": "si2-parcialitoxd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175549207320:android:c9dbacdedaaf0441c4c46d",
+        "android_client_info": {
+          "package_name": "com.example.si2_parcialito2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM_scnY0fWdwdS0qd1ztLEHQlljd3qro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
